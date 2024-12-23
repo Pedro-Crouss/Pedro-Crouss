@@ -2,7 +2,7 @@
 
 [![Instaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.pedrocruz_/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Crouss&show_icons=true&theme=transparent)]
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Crouss&show_icons=true&theme=transparent)
 
 ## Status📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Crouss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
