@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Pedro Cruz👋
 
-[![Instaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.pedrocruz_/)
+[![Instaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pedrocross/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Crouss&show_icons=true&theme=transparent)
 
